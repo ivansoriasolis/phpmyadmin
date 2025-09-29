@@ -17,6 +17,7 @@ setTimeout(function() { window.location = decodeURI('./public/'); }, 2000);
 //<![CDATA[
 document.write('<p>Redirecting to the <a href="./public/">phpMyAdmin interface</a>. If you are not redirected automatically, click the link.</p>');
 //]]>
+<p>hola</p>
 </script>
 </body>
 </html>
